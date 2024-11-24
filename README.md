@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JodineDroux
 - 👀 I’m interested in Software Development | Java, Python, Rust, VisualBasic | SQL, HTML
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and C++
 - 💞️ I enjoy the challenge of determining a path to create software to solve a specific problem.
 - 📫 How to reach me jdroux5@hotmail.com  
 - 😄 Pronouns: She/her
